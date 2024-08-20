@@ -1,6 +1,6 @@
 /**
  * Display message to STDOUT.
- * @param {message} message to display.
+ * @param {String} message to display.
  */
 const displayMessage = (message) => {
   console.log(message);
