@@ -2,6 +2,8 @@
  * Display message to STDOUT.
  * @param {message} message to display.
  */
-module.exports = function displayMessage(message){
+const displayMessage = (message) => {
   console.log(message);
 }
+
+module.exports = displayMessage;
