@@ -1,3 +1,3 @@
-# Node JS Basic
-- Author: katiamiyu
-- 20-08-2024
+# NodeJS Basics
+- Name: katiamiyu
+- Date: 19-06-24
